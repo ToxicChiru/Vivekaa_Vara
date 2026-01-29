@@ -2,8 +2,6 @@
 
 > **A Generative Reality That Responds To Your Emotions.**
 
-![Project Banner](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
-
 **Viveka Vara** is an immersive, emotion-reactive web application that creates a dynamic 2D environment reflecting your inner state. By analyzing text input, voice, or facial expressions, the system shifts the atmosphere, lighting, weather, and audio landscape in real-time to guide you towards clarity and balance.
 
 ---
